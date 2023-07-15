@@ -4,7 +4,7 @@
 
 <hr>
 
-# PROJECT IN PROGRESS ⚠️
+<h1 align="center">PROJECT IN PROGRESS ⚠️</h1>
 
 <hr>
 
