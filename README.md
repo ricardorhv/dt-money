@@ -3,9 +3,9 @@
 </p>
 
 <hr>
-<p align="center">
-  <h1>PROJECT IN PROGRESS ⚠️</h1>
-</p>
+
+# PROJECT IN PROGRESS ⚠️
+
 <hr>
 
 ## Application developed to learn about connection with API and performance
