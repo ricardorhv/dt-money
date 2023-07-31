@@ -2,31 +2,29 @@
   <img src="./.github/logo.svg">
 </p>
 
-<hr>
+---
 
-<h1 align="center">PROJECT IN PROGRESS ⚠️</h1>
-
-<hr>
-
-## Application developed to learn about connection with API and performance
-
-## This project was created with the Rocketseat's Teacher during the classes
+## Application developed to learn about connection with API and performance (This project was created with the Rocketseat's Teacher during the classes)
 
 ---
 
 ## 🎥 Preview
 
-### A little about the project 💻
+### 💰 You have all your transactions, the outcome, income values and the total
 
-<img src='./github/tour.gif'/>
-
-<br>
+<img src='./.github/list.png'/>
 
 ---
 
-## 🚀 I went beyond the challenge
+### 🆕 Adding a new transaction through a modal with accessibility
 
-I did more than was requested to me
+<img src="./.github/create.gif"/>
+
+---
+
+### 🔍 Search for the transactions
+
+<img src="./.github/search.gif"/>
 
 <br>
 
