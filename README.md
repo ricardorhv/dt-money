@@ -28,17 +28,14 @@
 
 <br>
 
-- ✔️ I did `something`
-
-<br>
-
 ---
 
 ## 📚 Learning
 
 All the things that I learned and practiced with this project
 
-- I learn `something` to do something
+- I learn `connection with a API` to create and get the transactions
+- I learn `performance` to improve my projects
 
 <br>
 
@@ -48,8 +45,15 @@ All the things that I learned and practiced with this project
 
 This project was developed using de following technologies:
 
-- [Tech](link)
-- [Tech](link)
+- [React](https://react.dev/)
+- [React Hook Form](https://react-hook-form.com/)
+- [Axios](https://axios-http.com/ptbr/)
+- [Styled Components](https://styled-components.com/)
+- [Zod](https://zod.dev/)
+- [React Router DOM](https://reactrouter.com/en/main)
+- [Phosphor Icons](https://phosphoricons.com/)
+- [Json Server](https://github.com/typicode/json-server)
+- [Radix](https://www.radix-ui.com/)
 
 <br>
 
@@ -59,7 +63,7 @@ This project was developed using de following technologies:
 
 You can view the project layout through the links below:
 
-- [Layout](https://www.figma.com/file/5yT9ZzZmRQRS4yivGGB3pl/Coffee-Delivery/duplicate)
+- [Layout](https://www.figma.com/community/file/1138814493269096792)
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
